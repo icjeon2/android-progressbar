@@ -9,4 +9,4 @@ It can display using setMax() and setProgress functions to display current worki
 
 activity.xml - Add framelayout using this code. 
 Framelayout needs for inflating ProgressDialog.
-ProgressDialog can be visible or invisible using framelayout`s visibility option.
+You can using framelayout`s visibility option to be visible or invisible progress dialog.
